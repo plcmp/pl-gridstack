@@ -1,0 +1,29 @@
+{
+    "name": "@plcmp/pl-gridstack",
+    "version": "0.1.0",
+    "description": "gridstack.",
+    "main": "pl-gridstack.js",
+    "repository": {
+        "url": "https://github.com/plcmp/pl-gridstack.git"
+    },
+    "license": "MIT",
+    "type": "module",
+    "author": {
+        "name": "Azat Yamalov",
+        "email": "yamalov.azat@live.com"
+    },
+    "contributors": [
+        {
+            "name": "Dmitry Boikov",
+            "email": "boikovdv@gmail.com"
+        },
+        {
+            "name": "Andrey Maksimov",
+            "email": "andrmaxmail@gmail.com"
+        }
+    ],
+    "dependencies": {
+        "polylib": "^1.1.4",
+        "gridstack": "^7.1.0"
+    }
+}
